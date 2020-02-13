@@ -1,6 +1,8 @@
 # Dinosaurs 
 
-## Student Instructions
+## Screenshot of the app
+<img src="https://raw.githubusercontent.com/mjunaidsalaat/TheFoodShop/master/screens/splash.jpg" width="768" />
+
 
 ### Instructions to run the project
 ```
