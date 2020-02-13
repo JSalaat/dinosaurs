@@ -1,7 +1,7 @@
 # Dinosaurs 
 
 ## Screenshot of the app
-<img src="https://raw.githubusercontent.com/mjunaidsalaat/TheFoodShop/master/screens/splash.jpg" width="768" />
+<img src="https://raw.githubusercontent.com/JSalaat/dinosaurs/master/images/screenshot.jpg" width="768" />
 
 
 ### Instructions to run the project
