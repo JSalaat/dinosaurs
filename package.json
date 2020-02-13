@@ -1,5 +1,5 @@
 {
-  "name": "javascript",
+  "name": "dinosaurs-project",
   "version": "1.0.0",
   "description": "## Student Instructions",
   "main": "main.js",
@@ -18,7 +18,7 @@
     "build": "rollup -c",
     "watch": "rollup -c -w",
     "dev": "npm-run-all --parallel start watch",
-    "start": "serve public"
+    "start": "serve ./"
   },
   "repository": {
     "type": "git",

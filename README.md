@@ -2,6 +2,16 @@
 
 ## Student Instructions
 
+### Instructions to run the project
+```
+$ git clone git@github.com:JSalaat/dinosaurs.git
+$ cd dinosaurs
+$ yarn install
+$ yarn dev
+````
+
+then navigate to http://localhost:5000/
+
 ### Big Picture
 
 You will be building an infographic that is derived from data that is provided, as well as user input data. Object-oriented javascript is great for working with complex data, but it’s not of much use without an interface to interact with. You will be pulling in information from a form and using it to complete an array of objects that will then be appended back to the DOM. 
